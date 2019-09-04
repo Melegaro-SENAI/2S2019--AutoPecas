@@ -1,0 +1,14 @@
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\bin\Debug\netcoreapp2.1\Senai.CgStore.WebApi.deps.json
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\bin\Debug\netcoreapp2.1\Senai.CgStore.WebApi.runtimeconfig.json
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\bin\Debug\netcoreapp2.1\Senai.CgStore.WebApi.runtimeconfig.dev.json
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\bin\Debug\netcoreapp2.1\Senai.CgStore.WebApi.dll
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\obj\Debug\netcoreapp2.1\Senai.CgStore.WebApi.csprojAssemblyReference.cache
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\obj\Debug\netcoreapp2.1\Senai.CgStore.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\obj\Debug\netcoreapp2.1\Senai.CgStore.WebApi.RazorAssemblyInfo.cache
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\obj\Debug\netcoreapp2.1\Senai.CgStore.WebApi.RazorAssemblyInfo.cs
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\obj\Debug\netcoreapp2.1\Senai.CgStore.WebApi.AssemblyInfoInputs.cache
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\obj\Debug\netcoreapp2.1\Senai.CgStore.WebApi.AssemblyInfo.cs
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\obj\Debug\netcoreapp2.1\Senai.CgStore.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\bin\Debug\netcoreapp2.1\Senai.CgStore.WebApi.pdb
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\obj\Debug\netcoreapp2.1\Senai.CgStore.WebApi.dll
+C:\Users\47218236812\Desktop\Senai.CgStore.WebApi\Senai.CgStore.WebApi\obj\Debug\netcoreapp2.1\Senai.CgStore.WebApi.pdb
